@@ -67,22 +67,3 @@ The source was written for Abaqus 6.11-1. Check the VUMAT interface against your
 - Check single-element responses in the 0°, 45°, 90°, and equibiaxial loading directions before using the model. This README was prepared from the source and input template; no Abaqus job was run.
 
 The source header credits Junhe Lian (February 2016) and requires the author's permission for distribution. Retain that attribution and restriction.
-
-## Reference
-
-[1] Lian, J., Shen, F., Jia, X., Ahn, D. C., Chae, D. C., Münstermann, S., and Bleck, W. (2018). An evolving non-associated Hill48 plasticity model accounting for anisotropic hardening and r-value evolution and its application to forming limit prediction. *International Journal of Solids and Structures*, 151, 20–44. [doi:10.1016/j.ijsolstr.2017.04.007](https://doi.org/10.1016/j.ijsolstr.2017.04.007)
-
-```bibtex
-@article{Lian2018enHill48,
-  author  = {Lian, Junhe and Shen, Fuhui and Jia, Xiaoxu and
-             Ahn, Deok Chan and Chae, Dong Chul and
-             M{\"u}nstermann, Sebastian and Bleck, Wolfgang},
-  title   = {An evolving non-associated Hill48 plasticity model accounting for anisotropic hardening and r-value evolution and its application to forming limit prediction},
-  journal = {International Journal of Solids and Structures},
-  year    = {2018},
-  volume  = {151},
-  pages   = {20--44},
-  doi     = {10.1016/j.ijsolstr.2017.04.007}
-}
-```
-
